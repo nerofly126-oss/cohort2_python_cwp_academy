@@ -5,6 +5,4 @@ __pycache__/
 venv/
 env/
 .env
-.agents/
-.codex/
 .repo.git/
